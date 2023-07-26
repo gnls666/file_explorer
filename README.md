@@ -21,4 +21,7 @@ yarn lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+```
+使用yarn electron:serve运行该程序
+```
